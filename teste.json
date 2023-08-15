@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "nome": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "dataLancamento": "1605-01-16",
+      "genero": "Clássico"
+    },
+    {
+      "id": 2,
+      "nome": "1984",
+      "autor": "George Orwell",
+      "dataLancamento": "1949-06-08",
+      "genero": "Distopia"
+    },
+    {
+      "id": 3,
+      "nome": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "dataLancamento": "1813-01-28",
+      "genero": "Romance"
+    },
+    {
+      "id": 4,
+      "nome": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "dataLancamento": "1967-05-30",
+      "genero": "Realismo Mágico"
+    },
+    {
+      "id": 5,
+      "nome": "O Grande Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "dataLancamento": "1925-04-10",
+      "genero": "Romance"
+    },
+    {
+      "id": 6,
+      "nome": "O Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "dataLancamento": "1951-07-16",
+      "genero": "Ficção"
+    },
+    {
+      "id": 7,
+      "nome": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "dataLancamento": "1945-08-17",
+      "genero": "Satírico"
+    },
+    {
+      "id": 8,
+      "nome": "Guerra e Paz",
+      "autor": "Liev Tolstói",
+      "dataLancamento": "1869-01-01",
+      "genero": "Histórico"
+    },
+    {
+      "id": 9,
+      "nome": "Moby Dick",
+      "autor": "Herman Melville",
+      "dataLancamento": "1851-10-18",
+      "genero": "Aventura"
+    },
+    {
+      "id": 10,
+      "nome": "Paraíso Perdido",
+      "autor": "John Milton",
+      "dataLancamento": "1667-01-01",
+      "genero": "Poema Épico"
+    }
+  ]
+  
